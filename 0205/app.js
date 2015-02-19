@@ -11,6 +11,7 @@ var myObjet = { p1: 'a', p2: 'b'};
 var result='\n';
 for (var prop in myObjet) {
 	result += '속성명: ' + prop + ', 값: ' + myObjet[prop] + '\n';
+	console.log(result)
 }
 
 
