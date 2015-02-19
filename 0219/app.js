@@ -15,7 +15,8 @@ var b = [];
 
 a.d.f = new Array();
 a.d.f = [1,2,3,4];
-
+a.d.a = [];
+a.d.a[1] = 'now?!';
 
 console.log(a);
 console.log(b);
