@@ -13,8 +13,8 @@ a.d.e = 'now?';
 
 var b = [];
 
-a.d.e.f = new Array();
-a.d.e.f = 'if..';
+a.d.f = new Array();
+a.d.f = [1,2,3,4];
 
 
 console.log(a);
